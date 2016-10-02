@@ -20,13 +20,14 @@ public class DetailActivity extends AppCompatActivity {
         contct = (TextView) findViewById(R.id.tv_contact);
         email = (TextView) findViewById(R.id.tv_email);
         //store the text in variable
-        String name = getIntent().getExtras().getString("name");
-        String contact = getIntent().getExtras().getString("contact");
+//     String name = getIntent().getExtras().getString("name");
+ //       String contact = getIntent().getExtras().getString("contact");
         //String email = getIntent().getExtras().getString("email");
         //display text
-        tv.setText(name);
+
+        tv.setText("Anu Shree");
         contct.setText("9660294530");
-        email.setText("praveen02patel@gmail.com");
+        email.setText("kisan@gmail.com");
 
         btn.setOnClickListener(new View.OnClickListener() {
             @Override

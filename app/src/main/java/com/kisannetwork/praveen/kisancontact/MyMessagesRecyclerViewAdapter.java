@@ -15,7 +15,7 @@ import com.kisannetwork.praveen.kisancontact.PlaceholderFragment.OnListFragmentI
 import java.util.List;
 
 /**
- * Created by Praveen Patel on 10/2/2016.
+ * Created by Praveen Patel on 10/3/2016.
  */
 public class MyMessagesRecyclerViewAdapter extends RecyclerView.Adapter<MyMessagesRecyclerViewAdapter.ViewHolder> {
 

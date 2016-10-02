@@ -3,4 +3,7 @@
     <color name="colorPrimary">#448094</color>
     <color name="colorPrimaryDark">#449dbe</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="sendotp_light_grey">#b4b1b1</color>
+    <color name="send_otp_blue_dark">#194df7</color>
+    <color name="send_otp_blue">#4ab5e7</color>
 </resources>
